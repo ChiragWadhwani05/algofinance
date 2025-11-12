@@ -1,0 +1,18 @@
+# Python 3.8 or higher required
+
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Statistical Models
+statsmodels>=0.14.0
+arch>=5.3.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Kalman Filter
+pykalman>=0.9.5
+
+# Optional: For better plotting
+seaborn>=0.12.0
